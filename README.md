@@ -1,5 +1,7 @@
 # 6 segment 2 digit board
 
+A more recent version is [available](https://github.com/retiredfeline/6segment-board-reloaded).
+
 These are the Kicad design files for the [6 segment 2 digit board](https://hackaday.io/project/175397-6-segment-2-digit-led-board) project. Up to 3 boards can be cascaded for 6 digits.
 
 This is a multiplexed design with 6 cathode segment drive lines (one colon line is unused), and up to 6 anode digit drive lines. The cathode drive lines are taken high to turn on the transistors, while the anode drive lines are taken low to turn on the transistors.
